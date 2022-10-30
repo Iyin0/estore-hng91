@@ -59,12 +59,13 @@ function App() {
             </div>
           </div>
           <h1 id="twitter">@iyin___</h1>
+          <h2 id="slack">iyin</h2>
         </div>
         <div id="links">
           <button id='btn_twitter' onClick={() => window.location.href = "https://twitter.com/iyin___"}>Twitter Link</button>
           <button id='btn_zuri' onClick={() => window.location.href = "https://training.zuri.team/"}>Zuri Team</button>
           <button id='books' onClick={() => window.location.href = "http://books.zuri.team"}>Zuri Books</button>
-          <button id='book_python' onClick={() => window.location.href = "https://books.zuri.team/python-for-beginners?ref_id=<yourslackname>"}>Python Books</button>
+          <button id='book_python' onClick={() => window.location.href = "https://books.zuri.team/python-for-beginners?ref_id=iyin"}>Python Books</button>
           <button id='pitch' onClick={() => window.location.href = "https://background.zuri.team"}>Background Check for Code</button>
           <button id='book_design' onClick={() => window.location.href = "https://books.zuri.team/design-rules"}>Design Books</button>
         </div>
